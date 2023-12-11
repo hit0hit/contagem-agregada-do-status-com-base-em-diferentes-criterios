@@ -1,4 +1,4 @@
-# cards
+
 Essa consulta SQL está fazendo uma contagem agregada do status dos agendamentos com base em diferentes critérios. Vamos analisar a estrutura da consulta:
 
 1. **Alias para a Coluna Status:**
